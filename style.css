@@ -8,7 +8,15 @@ body {
 	height: 100vh;
 	font-family: 'Ubuntu', sans-serif;
 	overflow: hidden;
-	width: 50hv;
 	color: #fff;
 	background-color: royalblue;
+}
+
+.wrapp {
+	margin: 120px;
+	padding: 50px;
+}
+
+h1 {
+	margin-bottom: 20px;
 }
